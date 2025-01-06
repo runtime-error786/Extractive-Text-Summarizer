@@ -1,1 +1,1 @@
-# Text-Summarizer
+# Extractive Text-Summarizer
